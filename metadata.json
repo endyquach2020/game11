@@ -1,0 +1,6 @@
+{
+  "name": "Contra: Chiến Binh Bản Quyền Số",
+  "description": "Game Contra arcade hành động kết hợp vượt trạm trắc nghiệm bản quyền số theo sách giáo khoa Tin học 5 Bài 5, nhiều màn chơi, âm thanh chân thực và bảng xếp hạng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
